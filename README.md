@@ -15,4 +15,6 @@ MATLAB software for reconstructing OPT datasets, with a GUI. An installation of 
 ##### You should see a progress bar while various tasks are run in the background, followed by the appearance of this window:  
 ##### ![image](https://user-images.githubusercontent.com/63599428/127892790-95fe6d2c-646a-4dda-b848-96efd8c87974.png)
 
+#### To load data, click on the File menu item, and select either "Load single - OME.tiff" if your source data is an OME-TIFF or "Load single - image stack" if it is a series of TIFF files with sequential numbering at the end e.g. XXX_000.tif, XXX_001.tif ...
+#### ![image](https://user-images.githubusercontent.com/63599428/127893894-4c06d63f-36a9-412b-a07f-7211a8e5a3d9.png)
 
